@@ -4,6 +4,8 @@ FlowValidateZipcode
 Flow Apex Plugins for Validation ZIpcode
 
 This is a sample Salesforce ANT package which can be used to deploy the code necessary for performing Zipcode validation from a Flow.
+The package includes 2 separate Apex plug-ins using separate web services to validate the zipcode.
+
 
 Instructions( When using Salesforce Ant)
 -----------------------------------------
